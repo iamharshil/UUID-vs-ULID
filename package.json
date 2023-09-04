@@ -1,0 +1,14 @@
+{
+  "name": "uuid-vs-ulid",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ulid": "^2.3.0",
+    "uuid": "^9.0.0",
+    "worker-threads": "^1.0.0"
+  }
+}
